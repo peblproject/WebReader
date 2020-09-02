@@ -79,7 +79,7 @@
     "hogan.js": "^3.0.2",
     "httpreq": "^0.4.24",
     "xml2js": "^0.4.19",
-    "decompress-zip": "^0.3.1"
+    "decompress-zip": "^0.3.2"
   },
   "scripts": {
     "cson2json": "node ./readium-js/readium-shared-js/readium-build-tools/concat.js \"package/*.cson\" package.cson && node ./readium-js/readium-shared-js/node_modules/cson/bin/cson2json package.cson > package.json && node ./readium-js/readium-shared-js/node_modules/rimraf/bin.js package.cson && node readium-js/readium-shared-js/readium-build-tools/optimizePackageJsonScripts.js",
