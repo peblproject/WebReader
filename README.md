@@ -1,4 +1,4 @@
-_Note: Please don't use the zip download feature on this repo as this repo uses submodules and this is not supported at present by github and will result in an incomplete copy of the repo._
+For deployment steps, [see the Deployment section of our wiki](https://github.com/peblproject/WebReader/wiki/Deploying-the-PeBL-WebReader).
 
 # readium-js-viewer
 
