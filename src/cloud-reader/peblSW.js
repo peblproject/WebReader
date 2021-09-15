@@ -96,7 +96,8 @@ var FILES_TO_CACHE = [
 
     "./css/readium-all.css",
 
-    "./scripts/pack.js"
+    "./scripts/pack.js",
+    "./scripts/config.js"
 ];
 
 let batchFetchFiles = async (batchSize, incomingFiles, cacheName, client) => {
